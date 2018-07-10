@@ -1,1 +1,1 @@
-print('This is duplicate of the git repository for checkcing purpose')
+print('This is duplicate of the git repository for checkcing purpose for the second time')
